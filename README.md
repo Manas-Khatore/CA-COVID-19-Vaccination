@@ -1,4 +1,4 @@
-# Examining-COVID-19-Vaccination-Rates-in-California
+# Examining COVID-19 Vaccination Rates in California
 This group project was awarded third prize in the general division of the 2021 Datathon for Social Good put on by UC Berkeley Data Science Society and Net Impact @ Berkeley. The main goals of this project were to:
 - Analyze COVID-19 vaccination rates among different race/ethnicity demographics in California, testing for statistically significant differences using A/B testing
 - Use linear regression to plot the relationship between vaccination rates and median income per county
